@@ -136,7 +136,7 @@ By completing this project, the following skills and concepts are developed:
 ## 📊 Dataset Overview
 
 > 📦 **Dataset:** `RealEstate_HousePrice_Dataset_4200.xlsx` — 4,200 real estate property records
-> 📂 **[Access Dataset →](https://docs.google.com/spreadsheets/d/1UoC5ld7B35dz3S3MxUvMQjBiqV-a0QWtCo3jSImpJBU/edit?usp=sharing)**
+> 📂 **[Access Dataset →](https://github.com/isamaliya16/Predictive_Insights_Engine/blob/main/RealEstate_HousePrice_Dataset_4200.xlsx)**
 
 ### 🔢 Features Description
 
