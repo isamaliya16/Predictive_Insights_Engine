@@ -32,11 +32,11 @@
 
 <div align="center">
 
-[![Watch the Project Walkthrough](https://img.shields.io/badge/▶%20Watch%20Full%20Walkthrough-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1rkZOl9ltQQ73dUu8K36YPhVBSPnNVTSM/view?usp=sharing)
+[![Watch the Project Walkthrough](https://img.shields.io/badge/▶%20Watch%20Full%20Walkthrough-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1nXpT1BomSTrNKFUB2tED3Zn7gvt8ItdN/view?usp=sharing)
 
 > 🎥 **A complete end-to-end video explanation** of the project — covering methodology, model building, gradient descent implementation, results, and business insights.
 >
-> 📌 *Click the button above or [open the video directly →](https://drive.google.com/file/d/1rkZOl9ltQQ73dUu8K36YPhVBSPnNVTSM/view?usp=sharing)*
+> 📌 *Click the button above or [open the video directly →](https://drive.google.com/file/d/1nXpT1BomSTrNKFUB2tED3Zn7gvt8ItdN/view?usp=sharing)*
 
 </div>
 
@@ -597,7 +597,7 @@ This project delivered a complete supervised learning pipeline applied to real-w
 | Finding | Result |
 |---|---|
 | 🥇 Best Performing Model | Multiple Linear Regression (R² ≈ 0.91) |
-| 🥈 Best Gradient Descent Method | Mini-Batch Gradient Descent |  
+| 🥈 Best Gradient Descent Method | Mini-Batch Gradient Descent |
 | ⚠️ Underfitting Model | Simple Linear Regression (R² ≈ 0.56) |
 | ⚠️ Overfitting Risk | Polynomial Regression at degree 3+ |
 | 💡 Top Price Drivers | Location Score & House Area |
@@ -634,7 +634,6 @@ This project delivered a complete supervised learning pipeline applied to real-w
  
 <br/>
 
-<div align="center">
 *Made with ❤️ | PR1 — Predictive Insights Engine | Supervised Learning | Real Estate Analytics*
-</div>
+
 </div>
